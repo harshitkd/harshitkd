@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there. My name is Harshit Dave  👋
 
-- 🔭 I’m currently studing at Indian Institue of Technology ,Gwalior
+- 🔭 I’m currently studing at Indian Institue of Information Technology ,Gwalior
 - 🌱 I’m currently learning Machine learning ,Deep learning and Virtual Reality.
 - 💬 Ask me about python.
 - 📫 How to reach me: Linkedin :www.linkedin.com/in/harshit-dave-b72a22193
