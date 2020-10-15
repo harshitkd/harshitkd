@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studing at Indian Institue of Technology ,Gwalior
 - 🌱 I’m currently learning Machine learning ,Deep learning and Virtual Reality.
 - 💬 Ask me about python.
