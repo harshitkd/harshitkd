@@ -1,7 +1,3 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=harshitkd.harshitkd)
-[![Github](https://img.shields.io/github/followers/harshitkd?label=Follow&style=social)](https://github.com/harshitkd)
-
-
 ### Hi there. My name is Harshit Dave  👋
 
 - 🔭  I’m currently studing at Indian Institue of Information Technology ,Gwalior
@@ -15,8 +11,9 @@
 
 
 <p align="center">
- <a href="linkedin.com/in/harshit-dave-b72a22193/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:harshitkd@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="linkedin.com/in/harshit-dave-b72a22193/" target="_blank" rel="noopener noreferrer"> <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" alt="LinkedIn" height="40" style="vertical-align:top"></a>
+ <a href="https://leetcode.com/harshit_dave/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://medium.com/@harshitkd"> <img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb.jpg" alt="Medium" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
