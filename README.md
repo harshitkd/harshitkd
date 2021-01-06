@@ -11,9 +11,9 @@
 
 
 <p align="center">
- <a href="linkedin.com/in/harshit-dave-b72a22193/" target="_blank" rel="noopener noreferrer"> <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" alt="LinkedIn" height="40" style="vertical-align:top"></a>
- <a href="https://leetcode.com/harshit_dave/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://medium.com/@harshitkd"> <img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb.jpg" alt="Medium" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/harshit-dave-b72a22193/" target="_blank" rel="noopener noreferrer"> <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" alt="LinkedIn" height="40" style="vertical-align:top"></a>
+ <a href="https://leetcode.com/harshit_dave/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://medium.com/@harshitkd" target="_blank"> <img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb.jpg" alt="Medium" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
