@@ -1,6 +1,6 @@
 ### Hi there. My name is Harshit Dave  👋
 
-- 🔭  I’m currently studing at Indian Institue of Information Technology ,Gwalior
+- 🔭  I’m currently studing at Indian Institute of Information Technology ,Gwalior
 - 🌱 I’m currently learning MERN, Data Science and Virtual Reality
 - 🥅 2021 Goals: Contribute more to Open Source projects and to become an aspiring data analytics
 - ⚡ Fun fact: I love photography 📷
