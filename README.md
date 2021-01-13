@@ -34,9 +34,6 @@
 <img alt="GitHub" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
  <img alt="Scala" height="40" src="https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/scala-icon.png" />
  <img alt="tensorflow" height="40" src="https://raw.githubusercontent.com/inquid/yii2-tensorflow-js/master/Tensorflow_logo.svg.png" />
- <img alt="hadoop" height="40" src="https://tanyaschlusser.github.io/slides/img/Hadoop.png" />
- <img alt="spark" height="40" src="https://raw.githubusercontent.com/github/explore/6f5025830918df26b37d23b3ffffbc35725fe15f/topics/spark/spark.png" />
- <img alt="tableau" height="40" src="https://user-images.githubusercontent.com/18670428/67619998-1227e580-f7fa-11e9-87de-99aef8ab17c5.png" />
 </p>
 
 
