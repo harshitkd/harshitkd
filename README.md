@@ -50,9 +50,8 @@
 <a href="https://github.com/harshitkd/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitkd&theme=radical&line_width=30" />
 </a>
+ </div>
 <a href="https://github.com/harshitkd/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkd&layout=compact&langs_count=8&theme=algolia" />
 </a>
- </div>
-
  
