@@ -7,8 +7,11 @@
 - 🔭  I’m currently studing at Indian Institute of Information Technology ,Gwalior
 - 🌱 I’m currently learning MERN, Data Science and Virtual Reality
 - ⚡ Fun fact: I love photography 📷
+<br/>
 
+---
 
+<br/>
 ### Contact with me 📝
 
 <p align="center">
@@ -17,9 +20,6 @@
 <a href="mailto:harshitkd@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="leetcode.com/harshit_dave/"><img src="https://img.shields.io/badge/leetcode-FFC30B.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode" /></a>&nbsp;
 </p>
-
-<br />
-
 ## 🧰 Languages and Tools:
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -48,12 +48,11 @@
 
 <div align="center"> 
 <a href="https://github.com/harshitkd/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitkd&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitkd&theme=radical&line_width=30" />
 </a>
 <a href="https://github.com/harshitkd/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkd&layout=compact&langs_count=8&theme=algolia" />
 </a>
  </div>
- 
- <br/>
+
  
