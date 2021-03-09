@@ -48,7 +48,7 @@
 
 <div align="center"> 
 <a href="https://github.com/harshitkd/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitkd&theme=radical&line_width=30" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitkd&theme=radical&line_height=50" />
 </a>
  </div>
 <a href="https://github.com/harshitkd/convoychat">
