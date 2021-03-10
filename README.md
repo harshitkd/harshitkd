@@ -15,12 +15,10 @@
 
 ### Contact with me 📝
 
-<p align="center">
-<br>
-<a href="linkedin.com/in/harshit-dave-b72a22193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:harshitkd@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="leetcode.com/harshit_dave/"><img src="https://img.shields.io/badge/leetcode-FFC30B.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode" /></a>&nbsp;
-</p>
+[<img align="center" alt="Harshit Dave | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="center" alt="iamhdave | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="center" alt="condor | Leetcode" height="30px" src="https://leetcode.com/static/images/LeetCode_logo.png" />][leetcode]
+[<img align="center" alt="harshit | hackerrank" height="30px" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" />][hackerrank]
 
 ## 🧰 Languages and Tools:
 
@@ -48,8 +46,8 @@
 
 <h2 align="center"> Github Statistics 📈 </h2>
 
-<div align="center"> 
-<a href="https://github.com/harshitkd/github-readme-stats">
+<div align="left"> 
+<a href="https://github.com/harshitkd/github-readme-stats" >
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitkd&theme=radical&line_height=20" />
 </a>
  </div>
@@ -57,3 +55,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkd&layout=compact&langs_count=8&theme=algolia" />
 </a>
  
+
+[instagram]: https://www.instagram.com/iamhdave/
+[linkedin]: https://www.linkedin.com/in/harshit-dave-b72a22193/
+[leetcode]: https://leetcode.com/harshit_dave/
+[hackerrank]: https://www.hackerrank.com/harshit_dave
