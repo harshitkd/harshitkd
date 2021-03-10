@@ -20,6 +20,10 @@
 [<img align="left" alt="condor | Leetcode" height="50px" src="https://leetcode.com/static/images/LeetCode_logo.png" />][leetcode]
 [<img align="left" alt="harshit | hackerrank" height="50px" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" />][hackerrank]
 
+<br />
+<br />
+<br />
+
 ## 🧰 Languages and Tools:
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -37,7 +41,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-
 <br/>
 
 ---
@@ -49,9 +52,6 @@
 <div align="left"> 
 <a href="https://github.com/harshitkd/github-readme-stats" >
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitkd&theme=radical&line_height=20" />
-</a>
-  <a href="https://github.com/harshitkd/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkd&layout=compact&langs_count=8&theme=algolia" />
 </a>
  </div>
 
