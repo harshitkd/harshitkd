@@ -7,13 +7,7 @@
 - 🔭  I’m currently studing at Indian Institute of Information Technology ,Gwalior
 - 🌱 I’m currently learning MERN, Data Science and Virtual Reality
 - ⚡ Fun fact: I love photography 📷
-<br/>
-
----
-
-<br/>
-
-### Contact with me 📝
+### Profile
 
 [<img align="left" alt="Harshit Dave | LinkedIn" height="50px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 [<img align="left" alt="iamhdave | Instagram" height="50px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
