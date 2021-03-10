@@ -15,10 +15,10 @@
 
 ### Contact with me 📝
 
-[<img align="center" alt="Harshit Dave | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="center" alt="iamhdave | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="center" alt="condor | Leetcode" height="30px" src="https://leetcode.com/static/images/LeetCode_logo.png" />][leetcode]
-[<img align="center" alt="harshit | hackerrank" height="30px" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" />][hackerrank]
+[<img align="left" alt="Harshit Dave | LinkedIn" height="50px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="iamhdave | Instagram" height="50px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="condor | Leetcode" height="50px" src="https://leetcode.com/static/images/LeetCode_logo.png" />][leetcode]
+[<img align="left" alt="harshit | hackerrank" height="50px" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" />][hackerrank]
 
 ## 🧰 Languages and Tools:
 
@@ -50,10 +50,11 @@
 <a href="https://github.com/harshitkd/github-readme-stats" >
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitkd&theme=radical&line_height=20" />
 </a>
- </div>
-<a href="https://github.com/harshitkd/convoychat">
+  <a href="https://github.com/harshitkd/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkd&layout=compact&langs_count=8&theme=algolia" />
 </a>
+ </div>
+
  
 
 [instagram]: https://www.instagram.com/iamhdave/
