@@ -12,6 +12,7 @@
 ---
 
 <br/>
+
 ### Contact with me 📝
 
 <p align="center">
@@ -20,6 +21,7 @@
 <a href="mailto:harshitkd@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="leetcode.com/harshit_dave/"><img src="https://img.shields.io/badge/leetcode-FFC30B.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode" /></a>&nbsp;
 </p>
+
 ## 🧰 Languages and Tools:
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
