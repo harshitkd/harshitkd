@@ -2,8 +2,6 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm an Engineering Student  
-
 - 🔭  I’m currently studing at Indian Institute of Information Technology ,Gwalior
 - 🌱 I’m currently learning MERN, Data Science and Virtual Reality
 - ⚡ Fun fact: I love photography 📷
