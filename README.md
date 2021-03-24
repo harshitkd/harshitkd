@@ -11,6 +11,7 @@
 [<img align="left" alt="iamhdave | Instagram" height="50px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
 [<img align="left" alt="condor | Leetcode" height="50px" src="https://leetcode.com/static/images/LeetCode_logo.png" />][leetcode]
 [<img align="left" alt="harshit | hackerrank" height="50px" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" />][hackerrank]
+[<img align="left" alt="Harshit Dave | Forage" height="50px" src="https://cdn-assets.theforage.com/favicon/android-icon-192x192.png" />][forage]
 
 <br />
 <br />
@@ -48,3 +49,4 @@
 [linkedin]: https://www.linkedin.com/in/harshit-dave-b72a22193/
 [leetcode]: https://leetcode.com/harshit_dave/
 [hackerrank]: https://www.hackerrank.com/harshit_dave
+[forage]: https://www.theforage.com/profile/sBCFTvjDwKTe2Krqo?ref=sBCFTvjDwKTe2Krqo
