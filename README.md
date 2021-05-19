@@ -15,7 +15,7 @@
 [<img align="left" alt="harshit | hackerrank" height="26px" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" />][hackerrank]
 [<img align="left" alt="Harshit Dave | Forage" height="26px" src="https://cdn-assets.theforage.com/favicon/android-icon-192x192.png" />][forage]
 
-<br />40
+<br />
 
 ## 🧰 Languages and Tools:
 
@@ -43,6 +43,7 @@
 <img align="left" alt="django" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="flask" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="pymc3" width="40px" src="https://numfocus.org/wp-content/uploads/2016/07/pymc3-logo-300.png" />
+
 <br />
 <br />
 <br />
