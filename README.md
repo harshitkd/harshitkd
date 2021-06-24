@@ -1,66 +1,47 @@
-# Hi there. My name is Harshit Dave <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-
-- 🔭  I’m currently studing at Indian Institute of Information Technology ,Gwalior
-- 🌱 I’m currently learning MERN, Data Science and Virtual Reality
-- ⚡ Fun fact: I love photography 📷
-
----
+###
+## Salut, I'm Harshit <img width="25px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 
-## Profile
+<p align="left">
+- 🔭 I’m currently pursuing Integrated B.Tech in Information Technology from <a href="https://www.iiitm.ac.in/index.php/en/">IIIT Gwalior</a>.</br>
+- :books: Exploring Deep Learning, Django development  and Open Source.</br>
+- 💻️ I'm fluent in Python, C/C++ and javascript. </br>
+- 🏆 Data Science Honours, <a href="https://www.wqu.edu/">WorldQuant University</a> || Virtual Experience Program Participant, <a href="https://home.kpmg/xx/en/home.html">KPMG</a> </br>
+- 📷 Fun fact: I love Photography.
+</p>
 
-[<img align="left" alt="Harshit Dave | LinkedIn" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"/>][linkedin]
-[<img align="left" alt="iamhdave | Instagram" height="26px" src="https://parentzone.org.uk/sites/default/files/Instagram%20logo.jpg" />][instagram]
-[<img align="left" alt="condor | Leetcode" height="26px" src="https://leetcode.com/static/images/LeetCode_logo.png" />][leetcode]
-[<img align="left" alt="harshit | hackerrank" height="26px" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" />][hackerrank]
-[<img align="left" alt="Harshit Dave | Forage" height="26px" src="https://cdn-assets.theforage.com/favicon/android-icon-192x192.png" />][forage]
+</br>
 
-<br />
+<p align="center">
+    <a href="https://github.com/harshitkd" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@harshitkd-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/harshit-dave/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://leetcode.com/harshit_dave/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-Leetcode-F0E68C?style=flat-square&logo=LeetCode&logoColor=black"></a>
+</p>
 
-## 🧰 Languages and Tools:
+<p align="center">
+    <a href="#" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+    <a href="#" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF8C00?style=flat-square&logo=TensorFLow&logoColor=white"></a>
+    <a href="#" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+    <a href="#" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFD700?style=flat-square&logo=JavaScript&logoColor=black"></a>
+    <a href="#" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-Django-006400?style=flat-square&logo=Django&logoColor=white"></a>
+    <a href="#" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0076A8?style=flat-square&logo=MySQL&logoColor=white"></a>
+    <a href="#" target="_blank"><img alt="Sass" src="https://img.shields.io/badge/-Sass-FF1493?style=flat-square&logo=Sass&logoColor=white"></a>
+    <a href="#" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-00599C?style=flat-square&logo=React&logoColor=white"></a>
+    <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-FF8C00?style=flat-square&logo=git&logoColor=white"></a>
+</p>
 
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="40px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="40px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="pycaret" width="40px" src="https://avatars.githubusercontent.com/u/58118658?v=4" />
-<img align="left" alt="tensorflow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="scala" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" />
-<img align="left" alt="svelte 3" width="40px" src="https://avatars.githubusercontent.com/u/23617963?s=280&v=4" />
-<img align="left" alt="django" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="flask" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="pymc3" width="40px" src="https://numfocus.org/wp-content/uploads/2016/07/pymc3-logo-300.png" />
+<p align="center">
+    <a href="https://github.com/harshitkd?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+    <a href="https://github.com/harshitkd" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
+    <a href="https://github.com/harshitkd/harshitkd" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alwinw/alwinw?label=profile%20updated&style=flat-square"></a>
+</p>
 
-<br />
-<br />
-<br />
-<br />
-
-<h2 align="center"> Github Statistics 📈 </h2>
-
-<div align="left"> 
-<a href="https://github.com/harshitkd/github-readme-stats" >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitkd&theme=radical&line_height=20" />
-</a>
- </div>
-
- 
-
-[instagram]: https://www.instagram.com/iamhdave/
-[linkedin]: https://www.linkedin.com/in/harshit-dave-b72a22193/
-[leetcode]: https://leetcode.com/harshit_dave/
-[hackerrank]: https://www.hackerrank.com/harshit_dave
-[forage]: https://www.theforage.com/profile/sBCFTvjDwKTe2Krqo?ref=sBCFTvjDwKTe2Krqo
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshitkd&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkd&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details>
