@@ -1,14 +1,6 @@
 ###
-## Salut, I'm Harshit <img width="25px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<img src="https://github.com/harshitkd/harshitkd/blob/main/Harshit%20Dave.gif" width="1000" height="450" />
 
-
-<p align="left">
-- 🔭 I’m currently pursuing Integrated B.Tech in Information Technology from <a href="https://www.iiitm.ac.in/index.php/en/">IIIT Gwalior</a>.</br>
-- :books: Exploring Deep Learning, Django development  and Open Source.</br>
-- 💻️ I'm fluent in Python, C/C++ and javascript. </br>
-- 🏆 Data Science Honours, <a href="https://www.wqu.edu/">WorldQuant University</a> || Virtual Experience Program Participant, <a href="https://home.kpmg/xx/en/home.html">KPMG</a> </br>
-- 📷 Fun fact: I love Photography.
-</p>
 
 </br>
 
