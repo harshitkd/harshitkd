@@ -1,6 +1,6 @@
 ###
-<img src="https://github.com/harshitkd/harshitkd/blob/main/Harshit%20Dave.gif" width="1000" height="450" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=40&center=true&vCenter=true&width=1300&height=100&lines=Salut%2C+I'm+Harshit+Dave.;Nice+to+meet+you.)](https://git.io/typing-svg)
 
 </br>
 
