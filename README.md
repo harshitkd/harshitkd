@@ -14,7 +14,7 @@
     <a href="#" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="#" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF8C00?style=flat-square&logo=TensorFLow&logoColor=white"></a>
     <a href="#" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="#" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFD700?style=flat-square&logo=JavaScript&logoColor=black"></a>
+    <a href="#" target="_blank"><img alt="Julia" src="https://img.shields.io/badge/-Julia-DC143C?style=flat-square&logo=Julia&logoColor=white"></a>
     <a href="#" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-Django-006400?style=flat-square&logo=Django&logoColor=white"></a>
     <a href="#" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0076A8?style=flat-square&logo=MySQL&logoColor=white"></a>
     <a href="#" target="_blank"><img alt="Sass" src="https://img.shields.io/badge/-Sass-FF1493?style=flat-square&logo=Sass&logoColor=white"></a>
