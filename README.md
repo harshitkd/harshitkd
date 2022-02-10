@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://github.com/harshitkd" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@harshitkd-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/harshit-dave/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://leetcode.com/harshit_dave/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-Leetcode-F0E68C?style=flat-square&logo=LeetCode&logoColor=black"></a>
+    <a href="https://leetcode.com/con_dor/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-Leetcode-F0E68C?style=flat-square&logo=LeetCode&logoColor=black"></a>
 </p>
 
 <p align="center">
@@ -34,6 +34,6 @@
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshitkd&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkd&hide=html,javascript,CSS,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkd&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 </p>
 </details>
