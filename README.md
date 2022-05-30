@@ -1,8 +1,11 @@
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=40&center=true&vCenter=true&width=1300&height=100&lines=Salut%2C+I'm+Harshit+Dave.;Nice+to+meet+you.)](https://git.io/typing-svg)
-
-</br>
+<h3 align="center">
+        <samp>&gt; Salut!, I am
+                <b><a>Harshit Dave</a></b>
+        </samp>
+</h3>
+<br>
 
 <p align="center">
     <a href="https://github.com/harshitkd" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@harshitkd-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
@@ -29,11 +32,26 @@
     <a href="https://github.com/harshitkd/harshitkd" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/harshitkd/harshitkd?label=profile%20updated&style=flat-square"></a>
 </p>
 
+
+
 <details>
-<summary>Click for GitHub Stats</summary>
+<summary align = "center"> <samp>&#9776; Github Stats</samp></summary>
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshitkd&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshitkd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkd&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkd&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
 </p>
+    
+<p align="center">  
+    <a href="https://github.com/kailash360/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kailash360's streak" src="https://github-readme-streak-stats.herokuapp.com?user=harshitkd&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+    </a>
+</p>
+    
+    
+<p align="center">
+    <img alt = "Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=harshitkd&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
+</p>
+
+ 
 </details>
