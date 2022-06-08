@@ -41,10 +41,10 @@
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkd&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
 </p>
-    
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshitkd&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats) -->
 <p align="center">  
     <a href="https://github.com/kailash360/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kailash360's streak" src="https://github-readme-streak-stats.herokuapp.com?user=harshitkd&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="harshitkd's streak" src="https://github-readme-streak-stats.herokuapp.com?user=harshitkd&theme=github-dark-blue&hide_border=true"/>
     </a>
 </p>
     
